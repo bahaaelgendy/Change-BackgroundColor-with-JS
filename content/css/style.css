@@ -1,0 +1,17 @@
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    background-color: rgb(215, 215, 215);
+    width: 290px;
+}
+
+ul li {
+    width: 20px;
+    height: 20px;
+    background-color: #09c;
+    margin-right: 15px;
+    list-style: none;
+    cursor: pointer;
+}
